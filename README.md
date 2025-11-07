@@ -1,4 +1,5 @@
-# 🧠 AI Chatbot Using Gemini 2.5 Pro
+# GeminiDocQA
+## 🧠 AI Chatbot Using Gemini 2.5 Pro
 
 An intelligent, document-aware chatbot web application built with **FastAPI**, **Gemini 2.5 Pro**, **Hugging Face Transformers**, and **Sentence Transformers**.  
 The chatbot can **summarize uploaded documents** and **answer user queries** based on document context — all via a clean HTML + CSS frontend, with no JavaScript.
